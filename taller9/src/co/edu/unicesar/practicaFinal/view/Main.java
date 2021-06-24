@@ -10,8 +10,7 @@ public class Main {
     public static void main(String[] args) {
         //new VistaConsola().ejecutarMenus();
         VentanaPrincipal ventanaPrincipal = new VentanaPrincipal();
-        //VentanaConsulta ventanaConsulta = new VentanaConsulta(null,false);
-        //VentanaEliminar ventanaEliminar = new VentanaEliminar(null,false);
+
 
 
 
